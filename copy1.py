@@ -9,7 +9,7 @@ if not os.path.exists(UPLOAD_FOLDER):
 new_path = os.path.join(UPLOAD_FOLDER)
 
 DIR_NAME = new_path
-REMOTE_URL = "https://github.com/Suba122/repository.git"  # if you already connected with server you dont need to give any credential
+REMOTE_URL = "https://subalakshmiM@bitbucket.org/subalakshmim/task1.git"  # if you already connected with server you dont need to give any credential
 # REMOTE_URL looks "git@github.com:path of Repo"
 # code for clone
 # code for push
